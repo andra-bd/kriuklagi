@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "KriukLagi",
   tagline: "Sekali Kriuk, Mau Lagi.",
-  email: "kriuklagi.id@gmail.com",
+  email: "hello.kriuklagi@gmail.com",
   // Ganti nomor ini sebelum website diluncurkan.
   whatsapp: "628XXXXXXXXXX",
   instagram: "",
